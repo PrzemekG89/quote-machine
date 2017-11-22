@@ -1,0 +1,42 @@
+body {
+  background-color: #61bfad;
+  color: #f9f7e8; }
+
+header {
+  color: #e54b4b;
+  margin-top: 30px; }
+
+.container .box .quote {
+  margin-top: 50px;
+  height: 20vh; }
+.container .box .author {
+  padding: 30px; }
+.container .buttons .button {
+  display: block;
+  width: 250px;
+  margin: 0 auto;
+  background: #61bfad;
+  background-image: -webkit-linear-gradient(top, #61bfad, #50aeac);
+  background-image: -moz-linear-gradient(top, #61bfad, #50aeac);
+  background-image: -ms-linear-gradient(top, #61bfad, #50aeac);
+  background-image: -o-linear-gradient(top, #61bfad, #50aeac);
+  background-image: linear-gradient(to bottom, #61bfad, #50aeac);
+  font-family: Georgia;
+  font-size: 22px;
+  color: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 2px; }
+  .container .buttons .button:hover {
+    background: #94efdf;
+    background-image: -webkit-linear-gradient(top, #94efdf, #72cfbe);
+    background-image: -moz-linear-gradient(top, #94efdf, #72cfbe);
+    background-image: -ms-linear-gradient(top, #94efdf, #72cfbe);
+    background-image: -o-linear-gradient(top, #94efdf, #72cfbe);
+    background-image: linear-gradient(to bottom, #94efdf, #72cfbe); }
+.container .buttons .btn-tweet {
+  border-top: none; }
+  .container .buttons .btn-tweet .tweet {
+    color: #ffffff;
+    text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
